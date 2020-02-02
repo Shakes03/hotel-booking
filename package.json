@@ -1,0 +1,19 @@
+{
+  "name": "hotel-booking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "jest-image-snapshot": "^2.12.0",
+    "jest-puppeteer": "^4.4.0",
+    "pptr-mock-server": "^1.0.8",
+    "puppeteer": "^2.1.0",
+    "request-promise-native": "^1.0.8"
+  }
+}
